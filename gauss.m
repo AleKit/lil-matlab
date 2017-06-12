@@ -1,3 +1,4 @@
+%made with cuNii
 format long
 N = 10; % iteraciones de la red
 n1 = 1; %sc
